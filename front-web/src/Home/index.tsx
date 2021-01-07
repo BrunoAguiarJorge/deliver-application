@@ -1,9 +1,11 @@
 import { AsyncLocalStorage } from 'async_hooks';
 import './styles.css';
 import {ReactComponent as MainImage} from './mainImage.svg'
+import Footer from '../Footer';
 
 function Home(){
     return(
+      <>
        <div className="home-container">
            <div className="home-content">
                <div className="hoeme-action">
@@ -25,6 +27,8 @@ function Home(){
                 </div>
            </div>
        </div>
+       <Footer />
+      </>
     )
 }
 
