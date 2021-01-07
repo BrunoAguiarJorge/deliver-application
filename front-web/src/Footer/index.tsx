@@ -1,4 +1,3 @@
-import App from "../App"
 import './styles.css';
 import {ReactComponent as InstagramItem} from './instagram.svg';
 import {ReactComponent as LinkedinItem} from './linkedin.svg';
