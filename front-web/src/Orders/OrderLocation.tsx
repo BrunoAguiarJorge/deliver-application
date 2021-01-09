@@ -1,4 +1,3 @@
-import StepsHeader from "./StepsHeader";
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import AsyncSelect from 'react-select/async';
 import { useState } from "react";
