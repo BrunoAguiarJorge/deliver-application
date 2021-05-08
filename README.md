@@ -1,4 +1,4 @@
-## Deliver-application
+## Deliver-application -> https://bruno-aguiar.netlify.app
 
 This Full Stack Project consist of a web and an mobile app that allow customers to select and order products from a catalog on a webpage.
 
@@ -20,10 +20,5 @@ This Full Stack Project consist of a web and an mobile app that allow customers 
 ![Netfly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-
-
-
-## Please visit the website to interact with the Application: 
-### https://bruno-aguiar.netlify.app
 ### https://www.linkedin.com/in/brunoaguiarjorge
 ### Author : Bruno Aguiar 
